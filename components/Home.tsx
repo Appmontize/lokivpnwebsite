@@ -26,12 +26,13 @@ const Home: React.FC = () => {
 						discover interesting features from us.
 					</p>
 					<Button
-						href={"/"}
-						title={"Download Now ! "}
-						className={
-							"text-[#fff] text-[1rem] font-bold leading-6 bg-[#007AFF] py-3 px-8  rounded-[0.625rem]"
-						}
-					/>
+  href={"/"}
+  title={"Download Now ! "}
+  className={
+    "text-[#fff] text-[1rem] font-bold leading-6 bg-[#007AFF] py-3 px-8 rounded-[0.625rem] transition-transform duration-300 hover:bg-[#0056b3] hover:scale-105 border-2 border-transparent hover:border-white hover:shadow-outline"
+  }
+/>
+
 				</div>
 				<div className="flex-1 w-full">
 					<Image

@@ -48,6 +48,7 @@ const Footer = () => {
 						</span>
 						is a private virtual network that <br />
 						has unique features and has high security.
+						
 					</p>
 					<div className="">
 						<div className="flex">
