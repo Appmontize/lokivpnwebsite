@@ -5,6 +5,7 @@ export default function accountdeltion() {
 
     <div>
         <AccountDeletion/>
+        {/* this account deletion request page */}
     </div>
   )
 }
